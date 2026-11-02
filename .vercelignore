@@ -1,0 +1,7 @@
+shot-*.png
+.git
+README.md
+.env*
+.vercel
+.gitignore
+.vercelignore
